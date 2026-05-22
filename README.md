@@ -1,5 +1,7 @@
 # Cast Cursors
 
+<img width="817" height="537" alt="Screenshot_20260522_122350" src="https://github.com/user-attachments/assets/21e2f170-8fa9-4eb6-b311-c1d79b1fe1d6" />
+
 A lightweight World of Warcraft addon that draws a glowing ring around your mouse cursor, with optional cast bar visualization.
 
 Originally built as an accessibility aid — the ring makes it much easier to keep track of your cursor during busy combat encounters.
