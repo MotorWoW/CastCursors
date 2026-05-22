@@ -24,10 +24,11 @@ Originally built as an accessibility aid — the ring makes it much easier to ke
 
 ## Installation
 
-Install via the CurseForge app, WoWUp, or manually drop the `CastCursors` folder into:
+Install via the *CurseForge app, *WoWUp, or manually drop the `CastCursors` folder into:
 ```
 World of Warcraft/_retail_/Interface/AddOns/
 ```
+*Curseforge and WoWUp options coming soon.
 
 ## Usage
 
