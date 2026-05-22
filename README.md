@@ -16,8 +16,8 @@ Originally built as an accessibility aid — the ring makes it much easier to ke
   - **Pulse** — ring pulses, faster as the cast nears completion
   - **None** — ring stays constant (pure cursor aid, no cast indication)
 - **Separate modes for casts and channels**
-- **Completion flash** — brief flash when a cast finishes
-- **Orbiting sparkle dot**
+- **Otional completion flash** — brief flash when a cast finishes
+- **Optional orbiting sparkle dot**
 - **Optional spell name label**
 - **Full options panel** — Interface > AddOns > Cast Cursors, or `/cc`
 - **Profile support** — per-character and per-spec configurations
